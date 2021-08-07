@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astrowonk
 - 👀 I’m interested in Python, pandas, data science ,etc.
-- 🌱 I’m currently learning how to use Dash to make web sites. Check out [RecordedVote.org](https://recordedvote.org) especially if you live in Virginia.
+- 🌱 I’m currently learning how to use Dash to make web sites. Check out [RecordedVote.org](https://recordedvote.org) especially if you live in Virginia. See [my other deployed projects on my site](https://marcoshuerta.com/projects).
 - 📫 [email me](mailto:marcos@marcoshuerta.com) if you like.
 
 <!---
