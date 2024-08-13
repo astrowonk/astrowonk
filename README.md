@@ -1,4 +1,4 @@
-I was trained in astrophysics, and have been working professional as a data scientist since being selected as a [Data Incubator Fellow](https://www.thedataincubator.com/) for the Washington, DC Fall cohort in 2018. 
+Hello, I'm [Marcos](https://marcoshuerta.com). I was trained in astrophysics, and have been working professional as a data scientist since being selected as a [Data Incubator Fellow](https://www.thedataincubator.com/) for the Washington, DC Fall cohort in 2018. 
 
 I use Python, and somehow every idea I have ends up as a [Plotly Dash web app.](https://dash.plotly.com/). They are all listed on my [Projects Page](https://marcoshuerta.com/projects/), but here are links to some of my favorite deployed apps:
 
